@@ -1,0 +1,21 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Database files (حماية البيانات المحلية وقاعدة البيانات)
+*.sqlite3
+*.db
+
+# Environment variables & secrets
+.env
+
+# IDE / Editor folders
+.vscode/
+.idea/
